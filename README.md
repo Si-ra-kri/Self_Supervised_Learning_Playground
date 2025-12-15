@@ -60,8 +60,8 @@ This highlights the **domain gap** problem in real-world ML deployment.
 ## 📸 Demo
 
 <p align="center">
-  <img src="assets/cifar_prediction.png" width="400"/>
-  <img src="assets/real_image_prediction.png" width="400"/>
+  <img src="Output Screenshots/cifar_prediction.png" width="400"/>
+  <img src="Output Screenshots/real_image_prediction.png" width="400"/>
 </p>
 
 ---
