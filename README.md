@@ -76,7 +76,7 @@ This highlights the **domain gap** problem in real-world ML deployment.
 
 ## 📌 Takeaway
 
-A good ML system doesn’t just predict — it communicates **uncertainty**.
+A good ML system doesn’t just predict, it communicates **uncertainty**.
 
 ---
 
